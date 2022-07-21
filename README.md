@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @JorbyWasTaken
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-Hi, im jorden <3
+                                            <3            Hi, im jorden <3             <3
 
-I am a full stack web developer
-proficient in REST api architecture, React, js, sql, css and more:)
+                               I am a full stack web developer
+                               proficient in REST api architecture, React, js, sql, css and more:)         <3
+                               
+                                          <3
+                                                                      <3
+                               
+                              <3
+                                                                                            <3
+                                                    <3                        
+                               
+                               
+                              
 
 
