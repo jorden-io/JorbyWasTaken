@@ -1,17 +1,13 @@
-
-                    Hi, im jorden <3             <3
-
-              I am a full stack web developer
-              proficient in REST api architecture, React, js, sql, css and more:)         <3
-                               
-                                          <3
-                                                                      <3
-                               
-                              <3
-                                                                                            <3
-                                                    <3                        
-                               
-                               
-                              
-
-
+I am Jorden a fullstack web developer with skills such as 
+TypeScript
+React 
+Node
+GraphQl
+JS
+Scss 
+API's
+REST 
+VIM
+SQL
+Postgresql
+Git
