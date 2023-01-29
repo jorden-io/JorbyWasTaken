@@ -1,3 +1,5 @@
+jordenrodriguez.com
+
 I am Jorden a fullstack web developer with skills such as 
 TypeScript
 React 
